@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
 <h3 align="center">Not a MACHAU! but loves to grind and innovate</h3>
 
-
+<br/>
 
 - 🔭 I’m currently working on **new full stack technologies**
 
