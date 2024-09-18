@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="center">Typical Gissu !! Just Code, Coffe and Chill</h3>
+<h3 align="center">Typical Gissu !! Just Code, Coffee and Chill</h3>
 
 <br/>
 
