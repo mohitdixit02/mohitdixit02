@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **new full stack technologies**
 
-- 💬 Ask me about **how to build a new innovative solution, but please don't ask me to debug your code, I hate it !!**
-
 - 📫 How to reach me **mohit.vsht@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TxvNQMW5RFgQzRu2UktkvqM_iTdtSXO2/view?usp=sharing](https://drive.google.com/file/d/1TxvNQMW5RFgQzRu2UktkvqM_iTdtSXO2/view?usp=sharing)
