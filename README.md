@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohit.vsht@gmail.com**
 
-- 📄 Checkout my <a href="https://drive.google.com/file/d/1TxvNQMW5RFgQzRu2UktkvqM_iTdtSXO2/view?usp=sharing">resume</a> to know about my experiences. 
+- 📄 Checkout my <a href="https://drive.google.com/file/d/1TxvNQMW5RFgQzRu2UktkvqM_iTdtSXO2/view?usp=sharing">resume</a> to know about me. 
 
 <h3>
   Work Experience
