@@ -1,51 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="center">Code, Coffee and Chill</h3>
-
-<br/>
-
-- 🔭 I’m currently working on **new full stack technologies**
-
-- 📫 How to reach me **mohit.vsht@gmail.com**
-
-- 📄 Checkout my <a href="https://drive.google.com/file/d/1TxvNQMW5RFgQzRu2UktkvqM_iTdtSXO2/view?usp=sharing">resume</a> to know about me. 
-
+<h1 align="center">Mohit Sharma</h1>
+<h3 align="center">Full Stack Developer | Deep Learning Engineer </h3>
 <h3>
   Work Experience
 </h3>
-  <ul>
-    <li>Software Development Intern @Standard Chartered</li>
-    <li>Software Development Intern @Lifeguru</li>
-  </ul>
+<ul>
+  <li>Development Engineer @Standard Chartered</li>
+</ul>
+<h3>
+  Internships
+</h3>
+<ul>
+  <li>Software Development Intern @Standard Chartered</li>
+  <li>Software Development Intern @Lifeguru</li>
+</ul>
 
-<h3 align="left">My Self Projects</h3>
-<ol>
-  <li><a href="https://github.com/mohitdixit02/musicappproject">
+<h3 align="left">Self Projects & Hackathons</h3>
+<ul>
+  <li>
+  <div>
+  <a href="https://github.com/mohitdixit02/cortex-os-assistant">
+    Cortex OS Assistant
+  </a>
+  | Google Cloud Rapid Agent Hackathon
+  </div>
+    - Advanced, memory-aware personal operating system with Tools Execution, Emotional Profiling and Non-blocking audio streaming architecture
+  </li>
+  <li>
+  <div>
+  <a href="https://github.com/mohitdixit02/webpage-chatbot">
+    WebPage Chatbot
+  </a>
+  | Self-Project
+  </div>
+    - A Chrome extension chatbot that answers user queries based on the content of the currently open webpage.
+  </li>
+  <li>
+  <div>
+  <a href="https://github.com/mohitdixit02/musicappproject">
     Music Web Application
   </a>
+  | Self-Project
+  </div>
     - Listen and customise your music experience journey
   </li>
-  <li><a href="https://github.com/mohitdixit02/calendarapp">
-    Calendar App
-  </a>
-    - Schedule and plan your events easily
-  </li>
-  <li><a href="https://github.com/mohitdixit02/postgresql-app">
-    Postgresql App
-  </a>
-    - Manage your daily tasks and career progress
-  </li>
-</ol>
+</ul>
 
+<h3 align="left">Contact Me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohitsh64293756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitsh64293756" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-sharma-926506229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-sharma-926506229/" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit_vsht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_vsht" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohit_vsht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohit_vsht" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mohit_vsht/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mohit_vsht/profile" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-<br/>
+- 📫 **mohit.vsht@gmail.com**
+- 📄 <a href="https://drive.google.com/file/d/1CbpXKyJa33MqZ3tZzzq7UFjMvxHO0AbU/view?usp=sharing">Resume</a> 
