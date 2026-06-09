@@ -1,12 +1,6 @@
 <h1 align="center">Mohit Sharma</h1>
 <h3 align="center">Full Stack Developer | Deep Learning Engineer </h3>
 <h3>
-  Work Experience
-</h3>
-<ul>
-  <li>Development Engineer @Standard Chartered</li>
-</ul>
-<h3>
   Internships
 </h3>
 <ul>
