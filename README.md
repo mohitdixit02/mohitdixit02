@@ -32,7 +32,7 @@
   </li>
   <li>
   <div>
-  <a href="https://github.com/mohitdixit02/hedera-x402">
+  <a href="https://github.com/new-biiee/Hedera-x402">
     Hedera x402
   </a>
   | Web3 Agent Hackathon
